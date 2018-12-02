@@ -1,0 +1,39 @@
+.backgroundcolor {
+    background-color: aquamarine;
+}
+.fas fa-images fa-fw {
+    font-family: "Font Awesome 5 Free";
+}
+.fas fa-solar-panelfa-fw {
+    font-family: "Font Awesome 5 Free";
+}
+.fas fa-user-friends fa-fw {
+    font-family: "Font Awesome 5 Free";
+}
+a {
+    text-decoration: none;
+}
+a:visited {
+    color:inherit;
+  }
+a:hover {
+    color:orange;
+    font-weight: bold	
+}
+.gohome {
+    color:blue;
+}
+.index {
+    text-align: center;
+}
+.chapter {
+    margin: 20px 0;
+    background-color: yellowgreen;
+}
+.comments {
+    width: 500px;
+    height: 100px;
+}
+.logout {
+    text-align:right;
+}
